@@ -1,6 +1,6 @@
 <div id="header" align="center">
-	<h1>👋 Hi there, I'm Dmytro</h1>
-	<h3> &nbsp Front &nbsp End &nbsp Developer &nbsp from &nbsp Ukraine</h3>
+	<h1> Hi there 👋  I'm Dmytro</h1>
+	<h3> Front &nbsp End &nbsp Developer &nbsp from &nbsp Ukraine</h3>
 </div>
 <div id="socials" align="center">
 	<a href="https://www.linkedin.com/in/dmytro-kuts-v/">
