@@ -18,7 +18,7 @@ ___
 
 <div id="socials" align="center">
 	<a href="https://dmytro-kuts.github.io/my-portfolio-site/">
-		<b style="fontSize 16px" >>>> Portfolios <<<</b>
+		<b> > > > Portfolios < < < </b>
 	</a>
 </div>
 
